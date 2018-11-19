@@ -1,0 +1,7 @@
+requests
+Markdown==2.6.11
+mkl==2019
+numpy
+scipy
+Pillow==5.3.0
+torchvision
