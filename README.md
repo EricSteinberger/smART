@@ -6,7 +6,7 @@ smART is an industrial robot arm painting in an artistic style. Watch a
 ![smART painting process](http://www.steinberger-ai.com/wp-content/uploads/2018/07/smART_titel_wide-e1532988954888.jpg)
 
 ## Details
-This repository consists of these steps:
+This repository consists of these components:
 * **Learning brush strokes** - A library of strokes (movement+image pairs) is created interactively
 * **Neural Style Transfer [[Gatys et al.]](https://arxiv.org/pdf/1508.06576.pdf)** - The robot's own style is applied to every image it shall paint.
 * **Iterative Stroke Sampling** - ISS combines strokes in the library to approximate the stylized image in a simulation.
